@@ -1,0 +1,2 @@
+Prefix plugins/BigWigAverageOverBed/example/
+Plugin BigWigAverageOverBed inputfile parameters.txt outputfile out.tab
